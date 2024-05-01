@@ -2,7 +2,7 @@
 
 A real-time server application that enables communication between server and client, allowing users to create groups and exchange messages.
 
-![Logo](https://i.hizliresim.com/arnbcs7.jpg)
+![Logo](https://github.com/omerylmzz/Chatter-Server/assets/164881937/4e5fe744-bce8-43fa-8a1b-20750305ce70)
 
 
 ## Features
@@ -28,7 +28,7 @@ Clone this repository
 git clone https://github.com/omerylmzz/Chatter-Server.git
 ```
 
-Install the required packages
+Install dependencies
 
 ```bash
 npm install
