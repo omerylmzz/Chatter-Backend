@@ -1,6 +1,6 @@
-# Chatter Server
+# Chatter Back-End
 
-![Logo](https://i.hizliresim.com/oqoo0e6.jpg)
+![Back-End](https://github.com/user-attachments/assets/0b53e6db-7df4-4785-9e17-795f93bbd068)
 
 A real-time server application that enables communication between server and client, allowing users to create groups and exchange messages.
 
